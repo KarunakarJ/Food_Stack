@@ -15,14 +15,26 @@
   </head>
   <body>
     <!-- Navigation bar using bootstrap-->
-    <nav class="navbar navbar-expand-sm bg-light sticky-top p-2">
-      <span class="navbar-brand">FoodStock</span>
+    <nav class="navbar navbar-expand-sm sticky-top p-2">
+      <a class="navbar-brand" href="#">
+        <img
+          src="images/FoodStack_logo.png"
+          width="30"
+          height="30"
+          class="d-inline-block align-top"
+          alt=""
+        />
+        Foodstack
+      </a>
 
       <button
         class="navbar-toggler"
         type="button"
         data-toggle="collapse"
         data-target="#collapsibleNav"
+        aria-controls="collapsibleNav"
+        aria-expanded="false"
+        aria-label="Toggle navigation"
       >
         <span class="navbar-toggler-icon"></span>
       </button>
@@ -33,10 +45,13 @@
             <a href="#" class="nav-link">Home</a>
           </li>
           <li class="nav-item active">
+            <a href="#" class="nav-link">About</a>
+          </li>
+          <li class="nav-item active">
             <a href="#" class="nav-link">Categories</a>
           </li>
           <li class="nav-item active">
-            <a href="#" class="nav-link">Contact us</a>
+            <a href="#" class="nav-link">Contact</a>
           </li>
           <li class="nav-item active">
             <a href="#" class="nav-link">Login/Signup</a>
@@ -45,5 +60,16 @@
       </div>
     </nav>
     <!-- End of Navigation bar-->
+
+    <!--Alerts-->
+    <div class="alert alert-success alert-dismissible" role="alert">
+      <button type="button" class="close" data-dismiss="alert">&times;</button>
+      Visiting for first time!
+      <a class="alert-link" href="">Get 30% off</a> on the food purchases.
+    </div>
+    <!--End of Alerts-->
+
+    <!-- for marketing -->
+    <!-- <div class="jumbotron"></div> -->
   </body>
 </html>
