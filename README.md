@@ -22,7 +22,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GitHub: <a href="https://github.com/Kartikey-Kabdwal">@kartikey</a> <br>
   
   :boy: <b></b>Karunakar J<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Email: <a>mohammadamin.shamshiri@mail.concordia.ca</a> <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Email: <a>jkarunakar47@gmail.com</a> <br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GitHub: <a href="https://github.com/KarunakarJ">@ karunaka</a> <br>
 
   :boy: <b>Name 3</b> <br>
