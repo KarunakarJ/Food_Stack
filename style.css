@@ -1,5 +1,6 @@
+/* Navigation bar */
 nav {
-  background-color: #ff914d;
+  background-color: orange;
 }
 nav .navbar-brand {
   font-size: x-large;
@@ -11,5 +12,11 @@ nav .navbar-brand {
 nav div{
   justify-content: end;
   font-size: large;
-  font-weight: 300;
+  font-weight: 400;
+}
+
+/* Slideshow */
+div .carousel-inner .carousel-item h2{
+  color: orange;
+  background-color: whitesmoke;
 }
