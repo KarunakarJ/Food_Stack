@@ -23,11 +23,11 @@
   
   :boy: <b></b>Karunakar J<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Email: <a>jkarunakar47@gmail.com</a> <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GitHub: <a href="https://github.com/KarunakarJ">@ karunaka</a> <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GitHub: <a href="https://github.com/KarunakarJ">@karunakar</a> <br>
 
-  :boy: <b>Name 3</b> <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Email: <a>   </a> <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GitHub: <a href="   ">@  </a> <br>
+  :boy: <b>Manish Kumar Tripathy</b> <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Email: <a>manishkumtripathi067@gmail.com</a> <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GitHub: <a href="https://github.com/manishkumartripathy029">@manish</a> <br>
 
   :boy: <b>Name 4</b> <br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Email: <a>   </a> <br>
