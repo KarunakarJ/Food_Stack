@@ -9,6 +9,16 @@
 <p align="center"> 
   <img src="images/2.gif" alt="Sample signal" width="70%" height="70%">
 </p>
+<!-- PREREQUISITES -->
+<h2 id="prerequisites"> :fork_and_knife: Prerequisites</h2>
+
+<!--This project is written in Python programming language. <br>-->
+The following technologies are used in this project:
+* HTML
+* CSS
+* JavaScript
+* BootStrap
+
 <!-- CONTRIBUTORS -->
 <h2 id="contributors"> :scroll: Contributors</h2>
 
